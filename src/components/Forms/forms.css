@@ -1,0 +1,77 @@
+
+.forms__button {
+    border: 3px solid white;
+    background-color: white;
+    width: 500px;
+    height: 650px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.forms__container {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.forms__container > span > div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div[id^=font-picker] .dropdown-button { 
+    border-radius: 20px;
+    border: 1px solid #F1F1F1;
+    font-size: 14px;
+    width: 250px !important;
+    background-color: #F1F1F1 !important;
+}
+
+div[id^=font-picker] {
+    box-shadow: none !important;
+}
+
+.forms__cookies > select {
+    background: #F1F1F1;
+    width: 250px;
+    height: 35px;
+    border: 1px solid #F1F1F1;
+    border-radius: 20px;
+    font-size: 14px;
+    padding: 0 10px;
+}
+
+.forms__dark > select {
+    background: #F1F1F1;
+    width: 250px;
+    height: 35px;
+    border: 1px solid #F1F1F1;
+    border-radius: 20px;
+    padding: 0 10px;
+    font-size: 14px;
+}
+
+.forms__highlightcolor > input{
+    background: #F1F1F1;
+    width: 250px;
+    height: 35px;
+    border: 1px solid #F1F1F1;
+    border-radius: 20px;
+}
+
+.forms__fontcolor > input{
+    background: #F1F1F1;
+    width: 250px;
+    height: 35px;
+    border: 1px solid #F1F1F1;
+    border-radius: 20px;
+}
+
+
+  .forms__highlightcolor > input[type="color"]::-webkit-color-swatch {
+    border: none;
+    width: 0px;
+    border-radius: 4px;
+  }
+

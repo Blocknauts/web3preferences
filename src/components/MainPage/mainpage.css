@@ -1,0 +1,191 @@
+.mainpage__title {
+    color: white;
+    font-weight: 800;
+
+    font-size: 40px;
+}
+
+.mainpage__container {
+    display: flex;
+    margin-top: 3%;
+}
+
+.mainpage__paragraph {
+    margin-top: 4%;
+    color: white;
+}
+
+.mainpage__paragraph > p {
+    font-size: 20px;
+}
+
+.mainpage__featuresbutton {
+    background: #6C6C70;
+    color: white;
+    border-radius: 20px;
+    border-color: transparent;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+    margin-top: 4%;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.mainpage__appbutton {
+    background: #5800FF;
+    font-size: 15px;
+    color: white;
+    border-radius: 20px;
+    border-color: transparent;
+    width: 150px;
+    height: 40px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-left: 4%;
+}
+
+.mainpage__features {
+    color: white;
+}
+
+.mainpage__features__title > h1 {
+    font-size:45px;
+}
+
+.mainpage__features__title > p{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 20px;
+}
+
+.mainpage__featurebox {
+    border-color: transparent;
+    background-color: #121225;
+    height: 288px;
+    width: 358px;
+    max-width: 100%;
+    border-radius: 20px;
+    margin-right: 8%;
+}
+
+.mainpage__featurebox > p {
+    background: #5800FF;
+    border: 2px solid #5800FF;
+    width: 21.5%;
+    height: 25%;
+    border-radius: 140px;
+    margin-top: 9%;
+    margin-left: 38.5%;
+}
+
+.mainpage__featurebox > h1 {
+    background: transparent;
+    text-align: center;
+    margin-top: 6%;
+}
+
+.mainpage__featurebox > h5 {
+    text-align: center;
+    background: transparent;
+    font-weight: 400;
+    margin-top: 6%;
+    font-size: 20px;
+    margin: 8%;
+}
+
+.mainpage__features__container {
+    display: flex;
+}
+
+.mainpage__image {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.mainpage__gettingstarted__title {
+    margin-top: 6%;
+    color: white;
+}
+
+.mainpage__gettingstarted__title > h1 {
+    margin-bottom: 2%;
+    font-size:45px;
+}
+
+.mainpage__gettingstarted__title > p {
+    font-size: 20px;
+}
+
+.mainpage__gettingstarted__boxes > button {
+    height: 55px;
+    width: 190px;
+    background: rgba(88, 0, 255, 0.47);
+    border-radius: 20px;
+    border-color: transparent;
+    margin-top: 25%;
+    cursor: pointer;
+}
+
+.mainpage__gettingstarted__boxes > button > p{
+    border: 1px solid black;
+    border-radius: 80px;
+    width: 30px;
+    height: 30px;
+    background: #5800FF;
+    color: white;
+    display: flex;
+    border-color: transparent;
+    align-items: center;
+    justify-content: center;
+}
+
+.mainpage__gettingstarted__boxes > button > h5 {
+    position: absolute;
+    background-color: transparent;
+    color: white;
+    margin-top: -12%;
+    margin-left: 43px;
+}
+
+
+.mainpage__image__code > img{
+    position: absolute;
+    max-width: 300%;
+    margin-left: 345%;
+}
+
+.mainpage__gettingstarted__containerbox {
+    display: flex;
+    position: absolute;
+    
+}
+
+.mainpage__gettingstarted__boxes {
+    display: flex;
+}
+
+
+
+.mainpage__gettingstarted__boxes > hr {
+    width: 220px;
+    height: 0;
+    margin: 3px;
+    position: absolute;
+    background: white;
+    margin-left: 99.44%;
+    margin-top: 38%;
+}
+
+
+
+.mainpage__gettingstarted__boxes > div{
+    position: absolute;
+    border: 1px solid white;
+    margin-left: 215.9%;
+    height: 202px;
+    background: white;
+    margin-top: -14.90%;
+}
+
+

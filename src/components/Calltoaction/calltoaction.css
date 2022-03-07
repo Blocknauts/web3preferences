@@ -1,0 +1,51 @@
+.calltoaction__maincontainer {
+    background-color: #5800FF !important;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    padding: 20px;
+    width: 90%;
+    height: 380px;
+    margin-bottom: 140px;
+}
+
+.calltoaction__maincontainer > div > button{
+    background-color: white;
+    border-color: transparent;
+    border-radius: 20px;
+    width: 13%;
+    height: 45px;
+    margin-top: 3%;
+    cursor: pointer;
+}
+
+.calltoaction__container {
+    display: flex;
+    margin-top: 45%;
+    color: white;
+}
+
+
+.calltoaction__maincontainer > div {
+    background: #5800FF;
+}
+
+.calltoaction__maincontainer > div > h1 {
+    background-color: #5800FF;
+    font-size: 40px;
+    margin-top: 3%;
+}
+
+.calltoaction__maincontainer > div > p {
+    background-color: #5800FF;
+    margin-top: 3%;
+}
+
+.calltoaction__image {
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 3%;
+    background-color: #5800FF;
+}
+.calltoaction__image > img {
+    background-color: #5800FF;
+}
