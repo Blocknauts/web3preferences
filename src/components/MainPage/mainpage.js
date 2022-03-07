@@ -33,7 +33,7 @@ function Mainpage() {
                 <p>Let web3 apps access your preferences through a smart contract. <br />Update them across all supported apps in seconds.</p>
               </div>
               <div>
-                <button className="mainpage__featuresbutton">Explore features</button>
+                <button className="mainpage__featuresbutton" ><a href="https://blocknauts-example.vercel.app/">Demo Link</a></button>
   <button className="mainpage__appbutton" onClick={goToForm}>Go to app</button>
               </div>
         </div>
